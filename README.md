@@ -1,3 +1,9 @@
+## Autores
+
+* RM561061 - **Arthur Thomas Mariano de Souza**
+* RM559873 - **Davi Cavalcanti Jorge**
+* RM559728 - **Mateus da Silveira Lima**
+
 # Calculadora Semi-Científica em Windows Forms
 
 Projeto de uma calculadora semi-científica desenvolvida como parte da avaliação Checkpoint 01 para a disciplina de Advanced Business Development with .NET. O objetivo foi criar uma aplicação desktop funcional utilizando a plataforma .NET e a interface Windows Forms.
